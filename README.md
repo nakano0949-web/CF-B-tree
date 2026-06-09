@@ -1,7 +1,6 @@
-CF‑B‑tree
 # CF-B-tree: Order-Isomorphic Encoding of Continued Fractions for B-Tree Indexing
 
-📄 Read the full paper on Zenodo: https://zenodo.org
+📄 Read the full paper on Zenodo: https://zenodo.org/records/20601310
 
 =========
 A general‑purpose, order‑preserving B‑tree index for arbitrary‑precision real
